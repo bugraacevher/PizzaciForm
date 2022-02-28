@@ -1,0 +1,11 @@
+C:\Users\bugra\OneDrive\Masaüstü\C#\pizzaci\pizzaci\bin\Debug\pizzaci.exe.config
+C:\Users\bugra\OneDrive\Masaüstü\C#\pizzaci\pizzaci\bin\Debug\pizzaci.exe
+C:\Users\bugra\OneDrive\Masaüstü\C#\pizzaci\pizzaci\bin\Debug\pizzaci.pdb
+C:\Users\bugra\OneDrive\Masaüstü\C#\pizzaci\pizzaci\obj\Debug\pizzaci.csproj.AssemblyReference.cache
+C:\Users\bugra\OneDrive\Masaüstü\C#\pizzaci\pizzaci\obj\Debug\pizzaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\bugra\OneDrive\Masaüstü\C#\pizzaci\pizzaci\obj\Debug\pizzaci.Form1.resources
+C:\Users\bugra\OneDrive\Masaüstü\C#\pizzaci\pizzaci\obj\Debug\pizzaci.Properties.Resources.resources
+C:\Users\bugra\OneDrive\Masaüstü\C#\pizzaci\pizzaci\obj\Debug\pizzaci.csproj.GenerateResource.cache
+C:\Users\bugra\OneDrive\Masaüstü\C#\pizzaci\pizzaci\obj\Debug\pizzaci.csproj.CoreCompileInputs.cache
+C:\Users\bugra\OneDrive\Masaüstü\C#\pizzaci\pizzaci\obj\Debug\pizzaci.exe
+C:\Users\bugra\OneDrive\Masaüstü\C#\pizzaci\pizzaci\obj\Debug\pizzaci.pdb
